@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\mainpage.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|solutionrelative:mainpage.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|solutionrelative:aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\main.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|solutionrelative:main.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|solutionrelative:main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\app.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|solutionrelative:app.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|c:\\users\\administrator\\desktop\\vbtool\\vba\u4E91\u6BCD\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|solutionrelative:settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\settingspage.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|solutionrelative:settingspage.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\storageextensions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|solutionrelative:storageextensions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\themeselectorservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|solutionrelative:themeselectorservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|c:\\users\\administrator\\desktop\\vbtool\\vba\u4E91\u6BCD\\setleft.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|solutionrelative:setleft.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}",
+      "RelativeMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|solutionrelative:package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\obj\\x86\\Debug\\MainPage.g.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\x86\\Debug\\MainPage.g.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\customcapability.sccd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|solutionrelative:customcapability.sccd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\obj\\x86\\Debug\\SettingsPage.g.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\x86\\Debug\\SettingsPage.g.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\aboutpage.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|solutionrelative:aboutpage.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\obj\\x86\\Debug\\Main.g.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\x86\\Debug\\Main.g.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\bin\\x86\\Debug\\AppxManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\x86\\Debug\\AppxManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\.nuget\\packages\\microsoft.ui.xaml\\2.8.6\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\customcapability.sccd||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1AC9B409-E0B2-4150-804A-2D7FC8E03088}|vba.vbproj|solutionrelative:customcapability.sccd||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-03T00:28:20.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "setleft.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\setleft.vb",
+              "RelativeDocumentMoniker": "setleft.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\setleft.vb",
+              "RelativeToolTip": "setleft.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-04T03:00:50.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\MainPage.xaml.vb",
+              "RelativeDocumentMoniker": "MainPage.xaml.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\MainPage.xaml.vb*",
+              "RelativeToolTip": "MainPage.xaml.vb*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-03T00:55:37.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\Main.xaml",
+              "RelativeDocumentMoniker": "Main.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\Main.xaml",
+              "RelativeToolTip": "Main.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-03T01:06:25.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\App.xaml.vb",
+              "RelativeDocumentMoniker": "App.xaml.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\App.xaml.vb",
+              "RelativeToolTip": "App.xaml.vb",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwB0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-03T00:35:26.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\Main.xaml.vb",
+              "RelativeDocumentMoniker": "Main.xaml.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\Main.xaml.vb",
+              "RelativeToolTip": "Main.xaml.vb",
+              "ViewState": "AgIAADEAAAAAAAAAAIAwwD8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-03T06:34:15.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SettingsPage.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\SettingsPage.xaml.vb",
+              "RelativeDocumentMoniker": "SettingsPage.xaml.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\SettingsPage.xaml.vb",
+              "RelativeToolTip": "SettingsPage.xaml.vb",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAUwHoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-03T04:51:26.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StorageExtensions.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\StorageExtensions.vb",
+              "RelativeDocumentMoniker": "StorageExtensions.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\StorageExtensions.vb",
+              "RelativeToolTip": "StorageExtensions.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-03T05:57:52.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SettingsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\SettingsPage.xaml",
+              "RelativeDocumentMoniker": "SettingsPage.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\SettingsPage.xaml",
+              "RelativeToolTip": "SettingsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-03T01:35:56.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "AboutPage.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\AboutPage.xaml",
+              "RelativeToolTip": "AboutPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-03T00:56:50.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThemeSelectorService.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\ThemeSelectorService.vb",
+              "RelativeDocumentMoniker": "ThemeSelectorService.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\ThemeSelectorService.vb",
+              "RelativeToolTip": "ThemeSelectorService.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-03T05:58:47.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainPage.g.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\obj\\x86\\Debug\\MainPage.g.vb",
+              "RelativeDocumentMoniker": "obj\\x86\\Debug\\MainPage.g.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\obj\\x86\\Debug\\MainPage.g.vb",
+              "RelativeToolTip": "obj\\x86\\Debug\\MainPage.g.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-04T03:19:58.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Package.appxmanifest",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\Package.appxmanifest",
+              "RelativeDocumentMoniker": "Package.appxmanifest",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\Package.appxmanifest",
+              "RelativeToolTip": "Package.appxmanifest",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
+              "WhenOpened": "2025-01-03T07:57:21.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomCapability.SCCD",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\CustomCapability.SCCD",
+              "RelativeDocumentMoniker": "CustomCapability.SCCD",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\CustomCapability.SCCD",
+              "RelativeToolTip": "CustomCapability.SCCD",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T02:22:01.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AboutPage.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\AboutPage.xaml.vb",
+              "RelativeDocumentMoniker": "AboutPage.xaml.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\AboutPage.xaml.vb",
+              "RelativeToolTip": "AboutPage.xaml.vb",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-03T11:10:29.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SettingsPage.g.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\obj\\x86\\Debug\\SettingsPage.g.vb",
+              "RelativeDocumentMoniker": "obj\\x86\\Debug\\SettingsPage.g.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\obj\\x86\\Debug\\SettingsPage.g.vb",
+              "RelativeToolTip": "obj\\x86\\Debug\\SettingsPage.g.vb",
+              "ViewState": "AgIAAA0AAAAAAAAAAADgvx0AAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-03T05:27:16.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-03T00:27:40.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Main.g.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\obj\\x86\\Debug\\Main.g.vb",
+              "RelativeDocumentMoniker": "obj\\x86\\Debug\\Main.g.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\obj\\x86\\Debug\\Main.g.vb",
+              "RelativeToolTip": "obj\\x86\\Debug\\Main.g.vb",
+              "ViewState": "AgIAACMAAAAAAAAAAAAewCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-03T09:19:16.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.ui.xaml\\2.8.6\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.ui.xaml\\2.8.6\\readme.txt",
+              "ToolTip": "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.ui.xaml\\2.8.6\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.ui.xaml\\2.8.6\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-03T00:27:25.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppxManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\bin\\x86\\Debug\\AppxManifest.xml",
+              "RelativeDocumentMoniker": "bin\\x86\\Debug\\AppxManifest.xml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\bin\\x86\\Debug\\AppxManifest.xml",
+              "RelativeToolTip": "bin\\x86\\Debug\\AppxManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-01-03T07:54:19.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomCapability.SCCD",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\CustomCapability.SCCD",
+              "RelativeDocumentMoniker": "CustomCapability.SCCD",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\vbtool\\vba\u4E91\u6BCD\\CustomCapability.SCCD",
+              "RelativeToolTip": "CustomCapability.SCCD",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T01:55:27.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

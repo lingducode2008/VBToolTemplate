@@ -1,0 +1,68 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:vba"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Custom="using:Microsoft.UI.Xaml.Controls"
+    x:Class="vba.MainPage"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:ConnectionId='2' x:Name="G1">
+        <Grid.Resources>
+            <AcrylicBrush x:Key="AcrylicBrushLight" BackgroundSource="HostBackdrop" TintColor="White" TintOpacity="0.6" FallbackColor="LightGray"/>
+            <AcrylicBrush x:Key="AcrylicBrushDark" BackgroundSource="HostBackdrop" TintColor="Black" TintOpacity="0.6" FallbackColor="DarkGray"/>
+        </Grid.Resources>
+
+        <Grid.RowDefinitions>
+            <!-- 自定义标题栏高度 -->
+            <RowDefinition Height="48"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid x:ConnectionId='3' x:Name="CustomTitleBar" Background="Transparent">
+            <!-- Width of the padding columns is set in LayoutMetricsChanged handler. -->
+            <!-- Using padding columns instead of Margin ensures that the background
+                 paints the area under the caption control buttons (for transparent buttons). -->
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition x:ConnectionId='6' x:Name="LeftPaddingColumn" Width="0"/>
+                <ColumnDefinition/>
+                <ColumnDefinition x:ConnectionId='7' x:Name="RightPaddingColumn" Width="0"/>
+            </Grid.ColumnDefinitions>
+            <Image Source="Assets/StoreLogo.png" 
+                   Grid.Column="1"
+                   HorizontalAlignment="Left"
+                   Width="16" Height="16"
+                   Margin="16,0,0,0"/>
+            <TextBlock x:ConnectionId='8' x:Name="AppTitleTextBlock"
+                       Text="App title" 
+                       Style="{StaticResource CaptionTextBlockStyle}" 
+                       Grid.Column="1"
+                       VerticalAlignment="Center"
+                       Margin="40,0,0,0"/>
+        </Grid>
+
+        <!-- NavigationView -->
+        <Custom:NavigationView x:ConnectionId='4'
+            x:Name="NavView"
+            Grid.Row="1"
+            IsPaneOpen="True"
+                                                       
+                                   
+            PaneDisplayMode="Top"
+            IsSettingsVisible="False"
+                                                 
+            IsTitleBarAutoPaddingEnabled ="False">
+
+            <Custom:NavigationView.MenuItems>
+                <Custom:NavigationViewItem Icon="Home" Content="主页" Tag="HomePage" />
+                <Custom:NavigationViewItem Icon="ForWard" Content="关于" Tag="AboutPage"/>
+                <Custom:NavigationViewItem Icon="Setting" Content="设置" Tag="SettingsPage"/>
+            </Custom:NavigationView.MenuItems>
+
+            <Frame x:ConnectionId='5' x:Name="contentFrame"                                   />
+        </Custom:NavigationView>
+    </Grid>
+</Page>
+
