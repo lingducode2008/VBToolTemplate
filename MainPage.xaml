@@ -1,18 +1,30 @@
 ﻿<Page
+    x:Class="vba.MainPage"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:vba"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:Custom="using:Microsoft.UI.Xaml.Controls"
-    x:Class="vba.MainPage"
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid x:Name="G1">
         <Grid.Resources>
-            <AcrylicBrush x:Key="AcrylicBrushLight" BackgroundSource="HostBackdrop" TintColor="White" TintOpacity="0.6" FallbackColor="LightGray"/>
-            <AcrylicBrush x:Key="AcrylicBrushDark" BackgroundSource="HostBackdrop" TintColor="Black" TintOpacity="0.6" FallbackColor="DarkGray"/>
+            <!-- AcrylicBrush - 亮色 -->
+            <AcrylicBrush 
+                x:Key="AcrylicBrushLight" 
+                BackgroundSource="HostBackdrop" 
+                TintColor="White" 
+                TintOpacity="0.6" 
+                FallbackColor="LightGray"/>
+            <!-- AcrylicBrush - 暗色 -->
+            <AcrylicBrush 
+                x:Key="AcrylicBrushDark" 
+                BackgroundSource="HostBackdrop" 
+                TintColor="Black" 
+                TintOpacity="0.6" 
+                FallbackColor="DarkGray"/>
         </Grid.Resources>
 
         <Grid.RowDefinitions>
@@ -21,11 +33,10 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
+        <!-- 自定义标题栏 -->
         <Grid x:Name="CustomTitleBar" Background="Transparent">
-            <!-- Width of the padding columns is set in LayoutMetricsChanged handler. -->
-            <!-- Using padding columns instead of Margin ensures that the background
-                 paints the area under the caption control buttons (for transparent buttons). -->
             <Grid.ColumnDefinitions>
+                <!-- 留空，用于自适应系统按钮的留白 -->
                 <ColumnDefinition x:Name="LeftPaddingColumn" Width="0"/>
                 <ColumnDefinition/>
                 <ColumnDefinition x:Name="RightPaddingColumn" Width="0"/>
